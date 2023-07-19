@@ -6,3 +6,8 @@ func main(){
 	fmt.Println("Git is a distributed version control system")
 	fmt.Println("Git is free software distributed under the GPL")
 }
+
+
+func modify(){
+	fmt.Println("modify main file")
+}
